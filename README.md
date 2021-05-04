@@ -11,11 +11,12 @@ Method for using this course:
 
     For any code I am unable to complete on my own, I first look up documentation for whatever I am struggling on, and then I watch the remaining videos.
 
-    The projects are listed out in order of days, but that's not precisely accurate to their order of complexity.
 
 Complexity:
 
-    Day 1 - 14 == Basic (Conditionals, Loops, Variable Declarations with scope consideration, functions)
+    The projects are listed out in order of days, and their general complexity is:
+
+    Day 1 - 14 == Basic (Conditionals, Loops, Variable Declarations with scope consideration, functions, classes, methods, data types, etc.)
 
     Day 15 - 40 == Intermediate/Hard (OOP, Files/Directories, Errors and Exceptions, Sending Emails, API Endpoints, Authentication, etc)
 
