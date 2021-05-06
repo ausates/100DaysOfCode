@@ -1,7 +1,7 @@
 # 100DaysOfCode
-A completion of projects loosely following Angela Yu's Course: Python, 100 Days of Code.
+A completion of projects I have made, loosely following Angela Yu's Course: Python, 100 Days of Code.
 
-Method for using this course:
+My method for using her course:
 
     Watch "What We Will Make At The End of Day (x)" video for (x) day.
 
